@@ -1,2 +1,3 @@
 # sqlb
+
 SQL string builder
